@@ -1,9 +1,10 @@
 import React from "react";
-import { BsCart4 } from "react-icons/bi";
+import { BiCart } from "react-icons/bi";
+
 const CartWidget=()=>{
     return(
         <>
-            <BsCart4/>
+            <BiCart/>
             <p>0</p>
         </>
     )

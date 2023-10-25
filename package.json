@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "core-js": "^3.33.0",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}

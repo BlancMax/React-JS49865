@@ -1,6 +1,5 @@
 import React from "react";
 import { BsCart4 } from "react-icons/bi";
-
 const CartWidget=()=>{
     return(
         <>

@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "nombre":"Placa Video AMD R7 260X",
+        "precio":60.000,
+        "categoria":"AMD",
+        "descrip":"Funciona sin problemas con Juegos como Overwatch, League of Legends, GTA V, Minecraft, Fornite, Raft, Genshin Impact, Roblox, etc.",
+        "image":"/image/AMD_7260X.jpg",
+        "stock":10
+
+    },
+    {
+        "id":2,
+        "nombre":"Placa Video AMD R9 280X",
+        "precio":72000,
+        "categoria":"AMD",
+        "descrip":"La tarjeta puede funcionar a una velocidad de reloj de 1000 MHz, con la opción de aceleración",
+        "image":"/image/AMD_R9280X.jpg",
+        "stock":10
+
+    },
+    {
+        "id":3,
+        "nombre":"Placa Video AMD RX 550",
+        "precio":84000,
+        "categoria":"AMD",
+        "descrip":"Con 32 unidades de textura, 16 de renderizado, un bus de memoria de 128 bits funcionando a 7 GHz",
+        "image":"/image/AMD_RX550.jpg",
+        "stock":10
+
+    },
+    {
+        "id":4,
+        "nombre":"Placa Video AMD RX 560",
+        "precio":175000,
+        "categoria":"AMD",
+        "descrip":"Como cuenta con 1024 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa.",
+        "image":"/image/AMD_RX560.jpg",
+        "stock":10
+
+    },
+    {
+        "id":5,
+        "nombre":"Placa Video AMD RX 5600XT",
+        "precio":210000,
+        "categoria":"AMD",
+        "descrip":" La tecnología Radeon™ FreeSync pone fin al juego entrecortado y los fotogramas rotos con un rendimiento fluido y sin artefactos",
+        "image":"/image/AMD_RX5600XT.jpg",
+        "stock":10
+
+    },
+    {
+        "id":6,
+        "nombre":"Placa Video AMD RX 6750XT",
+        "precio":1275000,
+        "categoria":"AMD",
+        "descrip":"Utiliza tecnologías avanzadas de escalamiento y generación de cuadros para aumentar la frecuencia de cuadros en títulos compatibles y garantizar experiencias de juego de excelente calidad y de alto rendimiento",
+        "image":"/image/AMD_RX6750XT.jpg",
+        "stock":5
+
+    },
+    {
+        "id":7,
+        "nombre":"Plca Video NVidia 1030",
+        "precio":132000,
+        "categoria":"NVidia",
+        "descrip":"Con una velocidad de memoria de 2100 MHz los datos del procesador central se van a traducir en información comprensible en tan solo un abrir y cerrar de ojos.",
+        "image":"/image/Nvidia1030.jpg",
+        "stock":10
+
+    },
+    {
+        "id":8,
+        "nombre":"Placa Video NVidia 1650",
+        "precio":199000,
+        "categoria":"NVidia",
+        "descrip":"Como cuenta con 896 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa.",
+        "image":"/image/Nvidia1650.jpg",
+        "stock":10
+
+    },
+    {
+        "id":9,
+        "nombre":"Placa Video NVidia 2060",
+        "precio":313500,
+        "categoria":"NVidia",
+        "descrip":"Criterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará",
+        "image":"/image/Nvidia2060.jpg",
+        "stock":10
+
+    },
+    {
+        "id":10,
+        "nombre":"Placa Video NVidia 3060",
+        "precio":456000,
+        "categoria":"NVidia",
+        "descrip":"Esta potente tarjeta gráfica cuenta con la última tecnología de Nvidia, brindándote un rendimiento excepcional en tus juegos favoritos. Con 8GB de memoria GDDR6 y una interfaz de placa madre PCI-Express 4.0",
+        "image":"/image/Nvidia3060.jpg",
+        "stock":6
+
+    },
+    {
+        "id":11,
+        "nombre":"Placa Video NVidia 4070",
+        "precio":1244000,
+        "categoria":"NVidia",
+        "descrip":"La RTX 4070 permite que los juegos más nuevos como A Plague Tale: Requiem, Dying Light 2, Warhammer 40,000: Darktide y otros títulos exigentes puedan superar los 100 cuadros por segundo, gracias a DLSS 3",
+        "image":"/image/Nvidia4070.jpg",
+        "stock":4
+
+    },
+    {
+        "id":12,
+        "nombre":"Placa Video NVidia 4090",
+        "precio":2672000,
+        "categoria":"NVidia",
+        "descrip":"Cuenta con 16384 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.",
+        "image":"/image/Nvidia4090.jpg",
+        "stock":2
+
+    }
+]
